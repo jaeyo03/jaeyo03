@@ -14,6 +14,7 @@
 
 ### 자신 있는 언어
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=JavaScript&logoColor=%23F7DF1E)
 
 ### 웹 개발
 ![Java](https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white)
