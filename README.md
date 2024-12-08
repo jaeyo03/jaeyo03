@@ -56,5 +56,5 @@
 
 ## 🌏 활동 내역
 
-- IT Service LAB (2023.01 ~ )
+- IT Service LAB (2022.11 ~ 2023.06)
 
