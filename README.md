@@ -3,7 +3,7 @@
 ## 🎓 교육
 
 - 서울과학기술대학교 산업공학과(ITM전공) (2019.03 ~ 2025.02)
-- Northumbria University, Newcastle ITMB 복수학위 (2020.03 ~ 2025.02)
+- Northumbria University, Newcastle ITM 복수학위 (2020.03 ~ 2025.02)
 - 프로그래머스 프론트엔드 데브코스 (2024.11 ~ 2025.04)
   
 ## 🏙 직무 경험
